@@ -23,7 +23,7 @@ export default function Home() {
           since the 1500s, when an unknown printer took a galley of type and
           scrambled it to make a type specimen book.
         </p>
-        <Link href="/thanawat">
+        <Link href="/users">
           <a className={styles.btn}>See Thanawat Listing</a>
         </Link>
       </div>
